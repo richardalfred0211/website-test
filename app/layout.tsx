@@ -14,8 +14,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-  title: "xThyroidAI",
-  description: "Personalized thyroid health",
+  title: "xNomiAI",
+  description: "Elevating technology through the artistry of artificial intelligence",
 };
 
 export default function RootLayout({
